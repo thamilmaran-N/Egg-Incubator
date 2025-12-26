@@ -28,6 +28,9 @@ The system uses a Raspberry Pi Pico W to monitor environmental conditions using 
 - 8.Breadboard
 - 9.Connecting Wires
 
+## Coding 
+- The given files were manually created others are in build in Thonny 
+
 ## Pin Connections
 <img width="973" height="424" alt="image" src="https://github.com/user-attachments/assets/16412cf1-f284-407a-9374-5c373ec262dc" />
 
